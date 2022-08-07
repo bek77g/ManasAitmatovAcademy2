@@ -1,0 +1,24 @@
+<svg id="zip" xmlns="http://www.w3.org/2000/svg" width="82" height="82" viewBox="0 0 82 82">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-opacity: 0;
+        stroke: #e5e5e5;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #1a1a1a;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="o" class="cls-1" cx="41" cy="41" r="40"/>
+  <g id="icon">
+    <path id="_2_3" data-name="2+3" class="cls-2" d="M512,296h24v30h-2V298H512v-2Zm-4,4h24v30h-2V302H508v-2Z" transform="translate(-479 -274)"/>
+    <path class="cls-2" d="M504,304h24v30H504V304Zm2,2h20v26H506V306Z" transform="translate(-479 -274)"/>
+    <path id="sound_on" data-name="sound on" class="cls-2" d="M513,316.857h3L519,314v10l-3-2.857h-3v-4.286Z" transform="translate(-479 -274)"/>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg id="audio" xmlns="http://www.w3.org/2000/svg" width="82" height="82" viewBox="0 0 82 82">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-opacity: 0;
+        stroke: #e5e5e5;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #1a1a1a;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="o" class="cls-1" cx="41" cy="41" r="40"/>
+  <path id="sound_on" data-name="sound on" class="cls-2" d="M264,309h8l8-8v28l-8-8h-8V309Zm20,2h2v8h-2v-8Zm6-4h2v16h-2V307Zm6-4h2v24h-2V303Z" transform="translate(-239 -274)"/>
+</svg>

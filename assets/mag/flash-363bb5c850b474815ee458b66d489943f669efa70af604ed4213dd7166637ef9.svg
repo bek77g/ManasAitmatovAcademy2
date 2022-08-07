@@ -1,0 +1,21 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 42">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #1a1a1a;
+      }
+
+      .cls-3 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>Untitled-1</title>
+  <circle class="cls-1" cx="21" cy="21" r="21"/>
+  <circle class="cls-2" cx="21" cy="21" r="16"/>
+  <path class="cls-3" d="M24,12L14,23h6l-2,7L28,19H22Z"/>
+</svg>
